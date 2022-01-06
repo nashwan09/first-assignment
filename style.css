@@ -3,8 +3,15 @@ body{
 }
 h1{
     font-size: 60px;
-  
- 
+}
+h3{
+    font-size: 25px;
+    font-weight: 700;
+}
+.mission-declaration{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
 }
 .color-golden{
     color: gold;
@@ -15,7 +22,7 @@ h1{
 }
 .screen-share{
     width: 50%;
-    margin-bottom: 120px;
+    margin-bottom: 80px;
     padding: 20px;
 }
 .screen-share img{
@@ -42,4 +49,30 @@ h1{
 }
 .first-button{
     margin-bottom: 35px;
+}
+.mission-section{
+    
+    width: 30%;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    height: 370px;
+}
+
+.mission-section img{
+    width: 50%;
+}
+#mission-explain{
+    background-color: #dbbcba;
+    margin-left: 50px;
+}
+#vision-explain{
+    background-color: #CCFFFF;
+
+}
+
+#goal-explain{
+    background-color:  #FFF4D6;
+    margin-right: 50px;
 }
