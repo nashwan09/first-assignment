@@ -1,0 +1,45 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 60px;
+  
+ 
+}
+.color-golden{
+    color: gold;
+}
+.border-line{
+    border-left :5px solid red;
+
+}
+.screen-share{
+    width: 50%;
+    margin-bottom: 120px;
+    padding: 20px;
+}
+.screen-share img{
+    width: 75%;
+    padding-left: 10%;
+}
+.intro-paragraph{
+    text-align: justify;
+    width: 70%;
+    margin-bottom: 25px;
+    
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 120px;
+}
+.read-button{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    font-weight: 600;
+    color: white;
+    border-radius: 5px;
+}
+.first-button{
+    margin-bottom: 35px;
+}
