@@ -8,8 +8,12 @@ h3{
     font-size: 25px;
     font-weight: 700;
 }
-.mission-declaration{
+#mission-line{
     text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+h2{
     font-size: 50px;
     font-weight: bold;
 }
@@ -23,16 +27,17 @@ h3{
 .screen-share{
     width: 50%;
     margin-bottom: 80px;
-    padding: 20px;
+    padding: 50px;
 }
 .screen-share img{
     width: 75%;
     padding-left: 10%;
 }
-.intro-paragraph{
+.section-paragraph{
     text-align: justify;
     width: 70%;
     margin-bottom: 25px;
+    line-height: 30px;
     
 }
 .flexible-container{
@@ -75,4 +80,56 @@ h3{
 #goal-explain{
     background-color:  #FFF4D6;
     margin-right: 50px;
+}
+#topic
+{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position:left;
+}
+.prog-lang{
+    padding-left: 50px;
+}
+#programming-lang{
+    background-image: url(images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right;
+    
+}
+.about-me{
+    text-align: center;
+
+}
+#myself{
+    background-image: url(images/shapes/shape-5.png);
+    background-size: 300px;
+    background-position:right;
+    background-repeat: no-repeat;
+
+}
+.my-paragraph{
+    width: 350px;
+    padding: 20px;
+    border-radius: 10px;
+    height: 220px;
+    background-color: rgb(233, 224, 210);
+    box-shadow: 15px 15px 30px gray;
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(236, 185, 16), rgb(194, 187, 129));
+    border-image-slice: 1;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.red-color{
+    color: red;
+}
+.footer-section{
+    font-family: 'Lobster', cursive;
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 100px;
+    padding: 15px;
 }
